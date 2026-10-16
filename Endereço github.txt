@@ -1,0 +1,5 @@
+Endereço github:
+https://github.com/ivanmageta/ArcadeScore.git
+
+
+Para acessar a aplicação, segue o endereço: http://localhost:4200
